@@ -1,8 +1,8 @@
 # mcp-iso
 
-Look up ISO standards (27001, 42001, 9001…): live status & price, a curated compliance catalogue, and ISO Open Data file pointers. Keyless.
+ISO Standards MCP — hosted.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 883+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1342+ live data sources.
 
 ## Tools
 
@@ -23,7 +23,7 @@ Add to your MCP client (Claude Desktop, Cursor, Windsurf, etc.):
 }
 ```
 
-Or connect to the full Pipeworx gateway for access to all 883+ data sources:
+Or connect to the full Pipeworx gateway for access to all 1342+ data sources:
 
 ```json
 {

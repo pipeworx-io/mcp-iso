@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/iso",
   "title": "Iso",
-  "description": "Look up ISO standards (27001, 42001, 9001…): live status & price, a curated compliance catalogue, and ISO Open Data file pointers. Keyless.",
-  "version": "0.1.0",
+  "description": "ISO Standards MCP — hosted.",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/iso",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-iso",

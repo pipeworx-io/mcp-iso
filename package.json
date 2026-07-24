@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-iso",
-  "version": "0.1.0",
-  "description": "Look up ISO standards (27001, 42001, 9001…): live status & price, a curated compliance catalogue, and ISO Open Data file pointers. Keyless.",
+  "version": "0.1.1",
+  "description": "ISO Standards MCP — hosted.",
   "type": "module",
   "main": "src/index.ts",
   "types": "src/index.ts",
