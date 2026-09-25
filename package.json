@@ -1,20 +1,32 @@
 {
   "name": "@pipeworx/mcp-iso",
-  "version": "0.1.1",
-  "description": "ISO Standards MCP — hosted.",
+  "version": "0.1.2",
+  "description": "ISO Standards MCP.",
   "type": "module",
   "main": "src/index.ts",
   "types": "src/index.ts",
+  "bin": {
+    "mcp-iso": "bin/cli.js"
+  },
   "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "iso"],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pipeworx-io/mcp-iso"
+    "url": "git+https://github.com/pipeworx-io/mcp-iso.git"
   },
   "scripts": {
     "typecheck": "tsc --noEmit"
   },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "tsx": "^4.19.0"
+  },
   "devDependencies": {
-    "typescript": "^5.7.0"
+    "typescript": "^5.9.3",
+    "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-6ddf90bf6579f4ccc5c830f640401c6ec37a33701a37028aa9a3aceebda0014a",
+    "sourceCommit": "70cd53748fc9f9a43ed3681d751bfa96e701efd2"
   }
 }
