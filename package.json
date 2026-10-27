@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-iso",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "ISO Standards MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-dd9ddad3bf355f7954dc00cd4caabaf1cc44ff1d639da3cd90c97c94e329dc75",
-    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
+    "sourceHash": "v1-cc4d79ba090490a19257657531c5c8a04f4c36badf75a0453a538056252af70f",
+    "sourceCommit": "33741fe6d9ba71856e73fa683c73572d1ddf2e93"
   }
 }
